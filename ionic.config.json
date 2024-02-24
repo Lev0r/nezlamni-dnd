@@ -1,7 +1,0 @@
-{
-  "name": "Nezlamni Dnd",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue-vite"
-}
